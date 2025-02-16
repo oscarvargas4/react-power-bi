@@ -3,8 +3,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+}
+
+.Embed-container {
+  height: 1080px;
+  width: 1920px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
